@@ -1,2 +1,8 @@
-# homework-bot
-Telegram bot for homework
+# Homework Bot
+
+Telegram бот для запису домашнього завдання.
+
+## Функції:
+- Запис ДЗ
+- Перегляд ДЗ
+- Розклад уроків
